@@ -1,0 +1,6 @@
+{
+  "name": "Defence Movers & Packers Karachi",
+  "description": "Professional movers and packers in DHA Karachi and across Karachi. Home shifting, office relocation, intercity moving, packing and moving services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
